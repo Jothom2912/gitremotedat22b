@@ -27,4 +27,6 @@ public class Controller
 
     //Jeg Vil have linje plads 25 - Ulrik
 
+    //Nu har vi snart fri
+
 }
